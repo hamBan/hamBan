@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🔭 Currently working on transformer based semi-supervised action recognition in videos.
+🌱 Currently learning distributed systems, formal methods, cryptography, and theoretical foundations of machine learning.
+👯 Looking for opportunities to work on cutting edge research problems in distributed systems.
