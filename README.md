@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🔭 Currently working on transformer based semi-supervised action recognition in videos.  
-🌱 Currently learning distributed systems, formal methods, cryptography, and theoretical foundations of machine learning.  
-👯 Looking for opportunities to work on cutting edge research problems in distributed systems.
+🔭 Working on transformer based semi-supervised action recognition in videos.  
+🌱 Learning distributed systems, formal methods, cryptography, and theoretical foundations of machine learning.  
+👯 Looking for opportunities to work on cutting edge research problems in distributed systems and machine learning.
 
 [![My Skills](https://skillicons.dev/icons?i=python,rust,java,go,docker)](https://skillicons.dev)
